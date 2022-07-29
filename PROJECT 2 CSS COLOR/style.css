@@ -1,0 +1,15 @@
+body {
+  background: rgb(172, 174, 201);
+}
+#container {
+  background: #ffffff;
+}
+#special {
+  background: #5cdd63;
+}
+#title {
+  color: rgba(2, 162, 255, 1);
+}
+#text {
+  color: rgba(71, 63, 63, 0.9);
+}

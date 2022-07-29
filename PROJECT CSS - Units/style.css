@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+}
+.nav {
+  background: #b2675e;
+  min-width: 100%;
+  min-height: 15vh;
+  font-size: 5.3vw;
+  color: #bbd686;
+}
+
+.banner {
+  background: #644536;
+  min-width: 100%;
+  min-height: calc(100vh - 30vh);
+}
+.footer {
+  background: #442f25;
+  min-width: 100%;
+  min-height: 15vh;
+}
+
+.first {
+  color: #bbd686;
+  font-size: 3.7vw;
+}
+.second {
+  color: #eef1bd;
+  font-size: 4.7vw;
+}
+.third {
+  color: #eef1bd;
+  font-size: 1.4rem;
+}
+.banner-btn {
+  background-color: red;
+  width: 12vw;
+  height: 4vw;
+  font-size: 1.8vw;
+}
+/*  */

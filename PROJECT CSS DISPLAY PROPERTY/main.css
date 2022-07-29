@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  background: rgb(223, 221, 154);
+  line-height: 1.5;
+}
+
+.section {
+  margin: 2rem;
+  padding: 1rem 2rem;
+  padding-bottom: 2rem;
+  background: rgb(251, 255, 193);
+}
+
+.section-title {
+  color: rgb(20, 20, 146);
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.title-underline {
+  background: rgb(115, 102, 233);
+  padding-bottom: 0.15rem;
+  margin: 0 10rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.section-center {
+  text-transform: initial;
+  text-align: justify;
+  max-width: 1170px;
+}
